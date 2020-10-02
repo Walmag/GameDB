@@ -1,0 +1,2 @@
+# GameDB
+Game store DB
